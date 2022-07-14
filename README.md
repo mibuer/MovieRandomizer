@@ -1,5 +1,5 @@
 # MovieRandomizer
-This is my current work in progess! A desktop app helping to choose movies or series from Netflix, Disney+ & Co.
+This is my current work in progress! A desktop app helping to choose movies or series from Netflix, Disney+ & Co.
 Streaming services have way too many interesting movies to watch. Maybe the problem of making a decision here sounds familiar to you!
 My idea was to select 3 movies or series and let the program decide for me or using a second try.  
 
